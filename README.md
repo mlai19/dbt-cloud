@@ -42,3 +42,7 @@ Key points:
 - snapshots/ shows how to version dimension changes over time
 - seeds/ is useful for static reference data
 - macros/ contains reusable logic, SQL snippets, or utility functions
+
+
+<img width="932" height="832" alt="Screenshot 2025-09-24 at 3 55 33 PM" src="https://github.com/user-attachments/assets/3b1906a8-7a80-4f00-b1e7-284885a2818f" />
+
